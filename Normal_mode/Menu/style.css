@@ -1,0 +1,16 @@
+* {
+   box-sizing: border-box;
+   font-family: "Avenir";
+}
+ul{
+   width:300px;
+}
+li{
+   border-style: solid;
+   border-width: 1px;
+   border-color: gray;
+   padding:10px
+}
+.color {
+   color:#66CC99;
+}
